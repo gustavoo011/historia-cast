@@ -1,6 +1,5 @@
 # historia-cast
-Projeto desenvolvido para apresentação escolar sobre a história da música brasileira.
-<br><br>
+Projeto desenvolvido para apresentação de um trabalho escolar.<br><br>
 Programação: Gustavo Oliveira e Rafael Tomé <br>
 Design: Gustavo Oliveira <br>
 Pesquisa: Guilherme Souto, João Sirqueira, Letícia dos Anjos e Lucas de Oliveira <br> 
